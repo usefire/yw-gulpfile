@@ -1,12 +1,28 @@
 {
   "name": "yw-gulpfile",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this is a test",
   "main": "lib/index.js",
-  "author": "usefire",
-  "license": "MIT",
   "bin": {
     "yw": "bin/yw.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "author": "usefire",
+  "license": "MIT",
+  "keywords": [
+    "gulpfile",
+    "yw",
+    "yw-gulpfile"
+  ],
+  "homepage": "https://github.com/usefire/yw-gulpfile",
+  "bugs": {
+    "url": "https://github.com/usefire/yw-gulpfile/issues"
+  },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/usefire/yw-gulpfile.git"
   },
   "files": [
     "lib",
